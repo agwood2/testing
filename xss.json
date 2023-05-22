@@ -1,7 +1,7 @@
 {
-  "url":"",
+  "url":"https://raw.githubusercontent.com/agwood2/testing/main/exploit.yaml",
   "urls": [
-    "url": "",
+    "url": "https://raw.githubusercontent.com/agwood2/testing/main/exploit.yaml",
     "name": "foo"
    ]
 
